@@ -1,0 +1,8 @@
+{
+	"API key" : f32745a699e192143c189d6f80cf81d8,
+	"Password" : f32578468e6b90a6d2d551915a014e36,
+	"Example URL" : 	https://f32745a699e192143c189d6f80cf81d8:f32578468e6b90a6d2d551915a014e36@stevies-test-shop.myshopify.com/admin/orders.json,
+	"Shared Secret" : 07b0543a013c899fa50f5dbbf7457018,
+	* "Storefront API" : 1bfa3562b3be867e8ab00ce1cbe4e4e8
+
+}
